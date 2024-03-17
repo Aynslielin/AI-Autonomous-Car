@@ -1,1 +1,1 @@
-# AI Automatic Car
+# Edge AI
